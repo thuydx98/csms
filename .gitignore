@@ -373,3 +373,8 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# Setting files
+appsettings.json
+app.json
+/secret-key
